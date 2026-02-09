@@ -7,26 +7,20 @@ skin: "blue"
 basic_info:
 
     # Profile information
-    first_name: Glenda
-    last_name: Negron
-    motto: Strive for continuous improvement, instead of perfection. 
-    avatar: https://randomuser.me/api/portraits/man/24.jpg
+    first_name: Ana
+    last_name: Lopez
+    motto: Fullstack developer
+    avatar: https://avatars.githubusercontent.com/u/246854766?s=400&u=17eacb6a23c0069222cbc47cea84ce6a77b7f409&v=4
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-
-      Second paragraph if required.
+      Digital marketing and web design specialist with an extensive background in marine sciences and a deep understanding of the diving industry. Passionate about technology and social media, with a recently completed Master’s degree in Digital Marketing. Experienced in web design using WordPress and in managing social media strategies to enhance business visibility within the aquatics sector. Currently training as a Full-Stack Developer, expanding technical skills in both front-end and back-end web development.
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: naglenda31.com #do not add http://
-    linkedin: alesanchezr
-    github: naglenda31
-    twitter: '@webjeda'
+    email: avantadesignlab@gmail.com
+    phone: +1 786 868 8151
+    website:  #do not add http://
+    linkedin: https://www.linkedin.com/in/ana-m-lopez-hidalgo/
+    github: Nahyahlop
+    twitter: 
     stack-overflow: # Number/Username, e.g. 123456/alandoe
 
     languages:
@@ -36,20 +30,18 @@ basic_info:
       - idiom: English
         level: Professional
 
-      # - idiom: Spanish
-      #   level: Professional
 
     interests:
       - item: Coding 
 
-      - item: Sci-fi movies and shows
+      - item: diving
 
       - item: Cooking
 
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: Digital Marketing 
+      university: Marketimg and Web School
+      time: 2023 - 2025
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
