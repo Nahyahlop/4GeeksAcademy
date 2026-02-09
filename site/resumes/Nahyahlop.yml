@@ -43,32 +43,25 @@ education:
       university: Marketimg and Web School
       time: 2023 - 2025
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
+        Comprehensive training in digital marketing strategy, SEO/SEM, social media marketing, paid advertising, email marketing, web analytics, and content creation.
 
-          - Bullet point
-          - Bullet point
-
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+    - degree: BSc in Marine Science
+      university: Univesidad de Las Palmas de Gran Canaria. Spain
+      time: 2002 - 2010
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
+        Multidisciplinary training in marine biology, oceanography, marine ecology, environmental science, and data analysis.
+        Strong scientific background with analytical, research, and problem-solving skills.
+    
+    - degree: Master’s Degree in Aquaculture
+      university: Univesidad de Las Palmas de Gran Canaria. Spain
+      time: 2012 - 2014
+      details: |
+        Advanced training in aquaculture systems, marine resource management, sustainability, and aquatic production. Experience in research, data analysis, project development, and technical reporting.
 
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Digital Marketing and Web Design Specialist
+      time: 2022 - Present
+      company: Aquarium Kingdom. Oakland Park, Florida
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -80,8 +73,9 @@ experiences:
         aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
         architecto beatae vitae dicta sunt explicabo.
 
-          - Bullet point
-          - Bullet point
+          - Company’s website design and maintenance, optimizing user experience and accessibility.
+          - Manage the production of all digital visual content, including photography and videography, to enhance social media presence and marketing efforts.
+          - Create engaging content and manage social media, increasing audience engagement and brand recognition.
 
     - role: Senior Software Engineer
       time: 2014 - 2015
